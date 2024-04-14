@@ -29,7 +29,7 @@
     <!--
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mayuragarwal2004&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=mayuragarwal2004&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuragarwal2004"/>
