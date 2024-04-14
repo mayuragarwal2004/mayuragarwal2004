@@ -16,7 +16,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=mayuragarwal2004&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuragarwal2004"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuragarwal2004&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td> 
     </tr>
     <tr>
@@ -24,7 +24,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=mayuragarwal2004&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuragarwal2004&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuragarwal2004"/>
         </td>
     </tr>
 </table>
