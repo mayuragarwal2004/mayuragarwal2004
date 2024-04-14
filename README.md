@@ -23,7 +23,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=mayuragarwal2004&row=3&column=4&no-bg=true&theme=darkhub"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuragarwal2004&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuragarwal2004&langs_count=10&layout=donut"/>
         </td> 
     </tr>
     <!--
