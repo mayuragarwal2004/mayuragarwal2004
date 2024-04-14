@@ -8,6 +8,13 @@
 
 <br/>
 
+### Contact me:
+
+<a href="https://www.instagram.com/mayur.m.agarwal"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mayur-manoj-agarwal"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
+<br/>
+
 ### My GitHub Stats
 
 <table>
